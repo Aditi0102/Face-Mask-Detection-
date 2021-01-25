@@ -1,2 +1,2 @@
 # Face-Mask-Detection
-Real time Face Mask Detection using OpenCV, Tensorflow.
+Real Time Face Mask Detection using OpenCV, Tensorflow.
